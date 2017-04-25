@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Introduction of Machine Learning
+description : Introduce the common Machine Learning techniques, how to define training and testing sets, explain the defination of under and overfitting.
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
